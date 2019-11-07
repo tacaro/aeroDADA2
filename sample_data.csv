@@ -1,0 +1,31 @@
+"","Sample.Name","Material.Type","Comment..Sample.Description","Characteristics..Organism","Characteristics..Flight.Name","Characteristics..Sample.Category","Characteristics..Collection.Date","Protocol.REF","Protocol.REF.1","X","is.neg"
+"L18002364","L18002364","Extracted DNA","Ground, pre-flight, side of aircraft","metagenomic data ","Eel River","Ground","30-Oct","sample concentration","nucleic acid extraction",NA,TRUE
+"L18002365","L18002365","Extracted DNA","Ground, post-flight, side of aircraft","metagenomic data ","Eel River","Ground","30-Oct","sample concentration","nucleic acid extraction",NA,TRUE
+"L18002366","L18002366","Extracted DNA","Ascent/Descent, in-flight, top stage of sampler","metagenomic data ","Eel River","Atmosphere","30-Oct","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002367","L18002367","Extracted DNA","Ascent/Descent, in-flight, bottom stage of sampler","metagenomic data ","Eel River","Atmosphere","30-Oct","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002368","L18002368","Extracted DNA","Cruise, in-flight, top stage of sampler","metagenomic data ","Eel River","Atmosphere","30-Oct","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002369","L18002369","Extracted DNA","Cruise, in-flight, bottom stage of sampler","metagenomic data ","Eel River","Atmosphere","30-Oct","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002370","L18002370","Extracted DNA","Ground, pre-flight, side of aircraft","metagenomic data ","CSAF","Ground","31-Oct","sample concentration","nucleic acid extraction",NA,TRUE
+"L18002371","L18002371","Extracted DNA","Ground, post-flight, side of aircraft","metagenomic data ","CSAF","Ground","31-Oct","sample concentration","nucleic acid extraction",NA,TRUE
+"L18002372","L18002372","Extracted DNA","Ascent/Descent, in-flight, top stage of sampler","metagenomic data ","CSAF","Atmosphere","31-Oct","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002373","L18002373","Extracted DNA","Ascent/Descent, in-flight, bottom stage of sampler","metagenomic data ","CSAF","Atmosphere","31-Oct","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002374","L18002374","Extracted DNA","Cruise, in-flight, top stage of sampler","metagenomic data ","CSAF","Atmosphere","31-Oct","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002375","L18002375","Extracted DNA","Cruise, in-flight, bottom stage of sampler","metagenomic data ","CSAF","Atmosphere","31-Oct","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002376","L18002376","Extracted DNA","Ground, pre-flight, side of aircraft","metagenomic data ","Slumgullion","Ground","1-Nov","sample concentration","nucleic acid extraction",NA,TRUE
+"L18002377","L18002377","Extracted DNA","Ground, post-flight, side of aircraft","metagenomic data ","Slumgullion","Ground","1-Nov","sample concentration","nucleic acid extraction",NA,TRUE
+"L18002378","L18002378","Extracted DNA","Ascent/Descent, in-flight, top stage of sampler","metagenomic data ","Slumgullion","Atmosphere","1-Nov","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002379","L18002379","Extracted DNA","Ascent/Descent, in-flight, bottom stage of sampler","metagenomic data ","Slumgullion","Atmosphere","1-Nov","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002380","L18002380","Extracted DNA","Cruise, in-flight, top stage of sampler","metagenomic data ","Slumgullion","Atmosphere","1-Nov","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002381","L18002381","Extracted DNA","Cruise, in-flight, bottom stage of sampler","metagenomic data ","Slumgullion","Atmosphere","1-Nov","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002382","L18002382","Extracted DNA","Ground, pre-flight, side of aircraft","metagenomic data ","LA Basin","Ground","2-Nov","sample concentration","nucleic acid extraction",NA,TRUE
+"L18002383","L18002383","Extracted DNA","Ground, post-flight, side of aircraft","metagenomic data ","LA Basin","Ground","2-Nov","sample concentration","nucleic acid extraction",NA,TRUE
+"L18002384","L18002384","Extracted DNA","Ascent/Descent, in-flight, top stage of sampler","metagenomic data ","LA Basin","Atmosphere","2-Nov","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002385","L18002385","Extracted DNA","Ascent/Descent, in-flight, bottom stage of sampler","metagenomic data ","LA Basin","Atmosphere","2-Nov","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002386","L18002386","Extracted DNA","Cruise, in-flight, top stage of sampler","metagenomic data ","LA Basin","Atmosphere","2-Nov","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002387","L18002387","Extracted DNA","Cruise, in-flight, bottom stage of sampler","metagenomic data ","LA Basin","Atmosphere","2-Nov","sample concentration","nucleic acid extraction",NA,FALSE
+"L18002388","L18002388","Extracted DNA","Negative control, blank filter loaded into upper stage of sampler","metagenomic data ","LA Basin","Ground","2-Nov","sample concentration","nucleic acid extraction",NA,TRUE
+"L18002389","L18002389","Extracted DNA","Negative control, blank filter loaded into lower stage of sampler","metagenomic data ","LA Basin","Ground","2-Nov","sample concentration","nucleic acid extraction",NA,TRUE
+"L18002390","L18002390","Extracted DNA","Hardware, pre-flight, probe sample","metagenomic data ","Eel River","Ground","30-Oct","sample concentration","nucleic acid extraction",NA,TRUE
+"L18002391","L18002391","Extracted DNA","Hardware, pre-flight, window plate sample","metagenomic data ","Eel River","Ground","30-Oct","sample concentration","nucleic acid extraction",NA,TRUE
+"L18002392","L18002392","Extracted DNA","Hardware, post-flight, probe sample","metagenomic data ","Eel River","Ground","30-Oct","sample concentration","nucleic acid extraction",NA,TRUE
+"L18002393","L18002393","Extracted DNA","Hardware, post-flight, window plate sample","metagenomic data ","Eel River","Ground","30-Oct","sample concentration","nucleic acid extraction",NA,TRUE
