@@ -1,0 +1,31 @@
+name,description,flight,category,date,is_neg,characteristic
+L18002364,"Ground, pre-flight, side of aircraft",Eel River,Ground,30-Oct,TRUE,ground
+L18002365,"Ground, post-flight, side of aircraft",Eel River,Ground,30-Oct,TRUE,ground
+L18002366,"Ascent/Descent, in-flight, top stage of sampler",Eel River,Atmosphere,30-Oct,FALSE,tropo
+L18002367,"Ascent/Descent, in-flight, bottom stage of sampler",Eel River,Atmosphere,30-Oct,FALSE,tropo
+L18002368,"Cruise, in-flight, top stage of sampler",Eel River,Atmosphere,30-Oct,FALSE,strat
+L18002369,"Cruise, in-flight, bottom stage of sampler",Eel River,Atmosphere,30-Oct,FALSE,strat
+L18002370,"Ground, pre-flight, side of aircraft",CSAF,Ground,31-Oct,TRUE,ground
+L18002371,"Ground, post-flight, side of aircraft",CSAF,Ground,31-Oct,TRUE,ground
+L18002372,"Ascent/Descent, in-flight, top stage of sampler",CSAF,Atmosphere,31-Oct,FALSE,tropo
+L18002373,"Ascent/Descent, in-flight, bottom stage of sampler",CSAF,Atmosphere,31-Oct,FALSE,tropo
+L18002374,"Cruise, in-flight, top stage of sampler",CSAF,Atmosphere,31-Oct,FALSE,strat
+L18002375,"Cruise, in-flight, bottom stage of sampler",CSAF,Atmosphere,31-Oct,FALSE,strat
+L18002376,"Ground, pre-flight, side of aircraft",Slumgullion,Ground,1-Nov,TRUE,ground
+L18002377,"Ground, post-flight, side of aircraft",Slumgullion,Ground,1-Nov,TRUE,ground
+L18002378,"Ascent/Descent, in-flight, top stage of sampler",Slumgullion,Atmosphere,1-Nov,FALSE,tropo
+L18002379,"Ascent/Descent, in-flight, bottom stage of sampler",Slumgullion,Atmosphere,1-Nov,FALSE,tropo
+L18002380,"Cruise, in-flight, top stage of sampler",Slumgullion,Atmosphere,1-Nov,FALSE,strat
+L18002381,"Cruise, in-flight, bottom stage of sampler",Slumgullion,Atmosphere,1-Nov,FALSE,strat
+L18002382,"Ground, pre-flight, side of aircraft",LA Basin,Ground,2-Nov,TRUE,ground
+L18002383,"Ground, post-flight, side of aircraft",LA Basin,Ground,2-Nov,TRUE,ground
+L18002384,"Ascent/Descent, in-flight, top stage of sampler",LA Basin,Atmosphere,2-Nov,FALSE,tropo
+L18002385,"Ascent/Descent, in-flight, bottom stage of sampler",LA Basin,Atmosphere,2-Nov,FALSE,tropo
+L18002386,"Cruise, in-flight, top stage of sampler",LA Basin,Atmosphere,2-Nov,FALSE,strat
+L18002387,"Cruise, in-flight, bottom stage of sampler",LA Basin,Atmosphere,2-Nov,FALSE,strat
+L18002388,"Negative control, blank filter loaded into upper stage of sampler",LA Basin,Ground,2-Nov,TRUE,ground
+L18002389,"Negative control, blank filter loaded into lower stage of sampler",LA Basin,Ground,2-Nov,TRUE,ground
+L18002390,"Hardware, pre-flight, probe sample",Eel River,Ground,30-Oct,TRUE,ground
+L18002391,"Hardware, pre-flight, window plate sample",Eel River,Ground,30-Oct,TRUE,ground
+L18002392,"Hardware, post-flight, probe sample",Eel River,Ground,30-Oct,TRUE,ground
+L18002393,"Hardware, post-flight, window plate sample",Eel River,Ground,30-Oct,TRUE,ground
